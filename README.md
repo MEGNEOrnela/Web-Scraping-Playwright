@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 ```
 2. Install Playwright browsers
 ```bash
-python3 -m playwright install
+playwright install
 ```
 
 3. Run the `main.py` file
