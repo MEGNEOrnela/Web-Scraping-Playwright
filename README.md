@@ -1,6 +1,6 @@
-Playwright-based web scraping
+# 🔍 Playwright-based web scraping
 
-This repository consists of a basic method to communicate with a web browser (chromium) and scrape dynamic web content using the [Playwright](https://playwright.dev/) tool. 
+This repository consists of a basic method to communicate with a web browser (Chromium) and scrape dynamic web content using the [Playwright](https://playwright.dev/) tool. 
 
 The `main.py` file contains the code to navigate to a URL and scroll over it. We will collect dynamic items like title, url, and author while parsing the output into a dictionary.
 
